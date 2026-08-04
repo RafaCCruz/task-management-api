@@ -229,4 +229,4 @@ pytest -v
 
 ## Licença
 
-Este projeto foi criado para fins de portfólio. Sinta-se livre para usar e adaptar.
+Este projeto foi criado para fins de portfólio.
